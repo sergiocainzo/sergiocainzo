@@ -1,6 +1,6 @@
 ## Olá pessoal 👋
-# Eu me chamo Sergio Cainzo
-# Bem vindo ao meu GitHub !! 😆
+Eu me chamo Sergio Cainzo
+Bem vindo ao meu GitHub !! 😆
 
 <! --
 **SergioCainzo/sergiocainzo** é um repositório ✨ _especial_ ✨ porque seu `README.md` (este arquivo) aparece em seu perfil GitHub.
